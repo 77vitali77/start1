@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\bin\Debug\net6.0\ex011.exe
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\bin\Debug\net6.0\ex011.deps.json
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\bin\Debug\net6.0\ex011.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\bin\Debug\net6.0\ex011.dll
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\bin\Debug\net6.0\ex011.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.dll
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\refint\ex011.dll
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ex011.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования (лекции)\start\Examples\ex011\obj\Debug\net6.0\ref\ex011.dll
